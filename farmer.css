@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(200, 240, 200);
+  width: 90%;
+  background-position: bottom right;
+  margin: 0 auto;
+  padding-left: 100px;
+  color: #000000;
+  background: url('alan.jpg');
+  background-repeat: no-repeat;
+  filter: 100px;
+  background-size: cover;
+}
+
+.bigstory {
+  text-align: left;
+}
+.table_header {
+  margin: auto;
+}
+
+ul.new {
+  list-style-position: inside;
+}
+
+q {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  background-color: sienna;
+  padding: 10px;
+  font-size: 160%;
+}
+
+q.village {
+  background-color: lightblue;
+  border-left: 2px dashed steelblue;
+}
+
+q.farmer {
+  background-color: lightgreen;
+  border-left: 2px dashed greenyellow;
+}
+figure {
+  width: 600px;
+  background-color: #ffffe6;
+  text-align: right;
+}
+table {
+  margin: auto;
+}
+
+td {
+  width: 100px;
+}
+
+footer {
+  padding-bottom: 10px;
+}
+
+li {
+  border-radius: 40px;
+  height: 50px;
+  width: 100px;
+  color: black;
+}
