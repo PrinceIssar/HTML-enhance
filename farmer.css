@@ -20,6 +20,7 @@ img {
 }
 .table_header {
   margin: auto;
+  font-weight: bold;
 }
 
 .title {
@@ -55,6 +56,15 @@ figure {
 }
 table {
   margin: auto;
+}
+
+tr:nth-of-type(even){
+  background-color: lightgrey;
+
+}
+tr:nth-of-type(odd){
+  background-color: white;
+
 }
 
 td {
